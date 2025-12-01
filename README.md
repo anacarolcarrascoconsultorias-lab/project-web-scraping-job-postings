@@ -1,5 +1,3 @@
-# web-scraping-job-postings-practice
-
 # Web Scraping Job Postings (Practice Job Board)
 
 This project simulates the work of a junior data analyst at a recruitment agency. 
