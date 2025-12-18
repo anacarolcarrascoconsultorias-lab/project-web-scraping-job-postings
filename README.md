@@ -36,3 +36,8 @@ The goal is to improve job vacancy sourcing by automatically collecting and anal
 ## 📬 Contact
 Ana Carolina Carrasco  
 Data Analyst (in progress)
+
+---
+
+### ⬅️ Back to Portfolio  
+🔗 https://github.com/your-username/portfolio
